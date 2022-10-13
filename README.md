@@ -7,7 +7,7 @@
 - instagram : https://www.instagram.com/yeshwanth_g02/
 - telegram : https://t.me/codecommunitygithub
 
-giving my best to learning best side of tech.
+giving my best to learn best side of tech.
 
 <!---
 yesh02/yesh02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
